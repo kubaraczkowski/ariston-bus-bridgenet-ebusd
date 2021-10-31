@@ -1,6 +1,6 @@
 # type (r[1-9];w;u),class,name,comment,QQ,ZZ,PBSB,ID,field,part (m/s),type / templates,divider / values,unit,comment,field,part (m/s),type / templates,divider / values,unit,comment,field,part (m/s),type / templates,divider / values,unit,comment,field,part (m/s),type / templates,divider / values,unit,comment,AG,AH
 *r,broadcast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-*b,broadcast,,,,FE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+*b,broadcast,,,,FE,,,,,,,,,,,,,,,,,,,,,,,,,,
 *w,broadcast,,,,FE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 w,,queryexistence,Inquiry of existence,,FE,07FE,,,,,,,,,,,,,,,,,,,,,,,,,
 
